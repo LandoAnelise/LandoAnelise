@@ -5,7 +5,6 @@
 - 🔭 Atualmente trabalho como analista de implantação de software
 - 🌱 Estudando Python e análise de dados
 - 📫 Contate-me no e-mail: ane.lando@gmail.com
-- 😄 Pronomes: Ela/Dela
 ## 
 
  <div>
